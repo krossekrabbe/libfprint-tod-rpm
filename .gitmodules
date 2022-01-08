@@ -1,0 +1,3 @@
+[submodule "libfprint"]
+	path = libfprint
+	url = https://gitlab.freedesktop.org/3v1n0/libfprint.git
